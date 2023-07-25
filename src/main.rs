@@ -2,6 +2,7 @@
 #![no_main]
 
 use core::panic::PanicInfo;
+mod vga_buffer;
 
 static TEXT: &[u8] = b"Hello, World! github.com/0xN1nja";
 

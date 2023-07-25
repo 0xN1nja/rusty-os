@@ -3,3 +3,8 @@
 
 # Screenshots :
 ![Screenshot](https://raw.githubusercontent.com/0xN1nja/rusty-os/master/assets/screenshot.png)
+
+# Usage
+```bash
+make build && make run
+```
