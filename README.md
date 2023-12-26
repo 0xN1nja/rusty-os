@@ -1,8 +1,8 @@
 # Rusty OS
 
-### An x86 Kernel Written In Rust
+An x86 Kernel Written In Rust
 
-# Screenshots :
+# Screenshots
 
 ![Screenshot](https://raw.githubusercontent.com/0xN1nja/rusty-os/master/assets/screenshot.png)
 
