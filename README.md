@@ -1,6 +1,6 @@
 # Rusty OS
 
-An x86 Kernel Written In Rust
+An x86 kernel written in Rust
 
 # Screenshots
 

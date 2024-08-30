@@ -4,7 +4,7 @@
 use core::panic::PanicInfo;
 mod vga_buffer;
 
-static TEXT: &[u8] = b"Hello, World! github.com/0xN1nja";
+static TEXT: &[u8] = b"Hello, world! github.com/0xN1nja";
 
 #[panic_handler]
 fn on_panic(_info: &PanicInfo) -> ! {
